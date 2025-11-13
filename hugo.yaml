@@ -1,8 +1,8 @@
 # 站点基础配置
-baseurl: https://example.com/           # 网站根URL
+baseurl: https://wait-yyy.github.io/ying.github.io/         # 网站根URL
 languageCode: en-us                     # 默认语言代码
 theme: hugo-theme-stack                 # 使用的主题名称
-title: Example Site                     # 网站标题
+title: 影颜小记                     # 网站标题
 copyright: Example Person               # 版权信息
 
 # 国际化配置
@@ -21,16 +21,8 @@ languages:
         weight: 2
         params:
             sidebar:
-                subtitle: 演示说明
+                subtitle: 有欲则风，有运则同
 
-# 第三方服务配置
-services:
-    # Disqus评论系统（使用前需修改为你的shortname）
-    disqus:
-        shortname: "hugo-theme-stack"
-    # Google Analytics跟踪ID
-    googleAnalytics:
-        id:                             # 填入你的GA跟踪ID
 
 # 分页设置
 pagination:
@@ -51,17 +43,17 @@ params:
 
     # 页脚设置
     footer:
-        since: 2020                    # 起始年份
+        since: 2025                    # 起始年份
         customText:                    # 自定义文本
 
     # 日期格式
     dateFormat:
-        published: Jan 02, 2006        # 发布日期格式
+        published: 2006-01-02        # 发布日期格式
         lastUpdated: Jan 02, 2006 15:04 MST  # 最后更新日期格式
 
     # 侧边栏设置
     sidebar:
-        emoji: 🍥                      # 表情图标
+        emoji: 🫠                  # 表情图标
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.  # 副标题
         avatar:
             enabled: true              # 是否显示头像
@@ -79,7 +71,7 @@ params:
 
     # 评论系统配置
     comments:
-        enabled: true                  # 启用评论
+        enabled: false                  # 启用评论
         provider: disqus               # 评论提供商
 
         # 各评论系统的具体配置
@@ -143,7 +135,7 @@ menu:
     social:                            # 社交链接菜单
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/wait-yyy
           params:
               icon: brand-github       # 图标名称
 
