@@ -2,7 +2,11 @@ name: Deploy Hugo Site to Pages
 
 on:
   push:
+<<<<<<< HEAD
     branches: ["main"]   # 代码推送至 main 分支时触发
+=======
+分支: ["main"]   # 代码推送至 main 分支时触发
+>>>>>>> 60e94daa77e271552ce7403f0ccf9a04ae3774ae
   workflow_dispatch:     # 支持手动触发
 
 permissions:
