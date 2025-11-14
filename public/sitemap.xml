@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ying.github.io/</loc>
+    <loc>http://localhost:65373/</loc>
     <lastmod>2025-11-14T01:01:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ying.github.io/post/</loc>
+    <loc>http://localhost:65373/post/</loc>
     <lastmod>2025-11-14T01:01:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ying.github.io/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E4%B8%8A%E4%BC%A0%E6%96%87%E7%AB%A0/</loc>
+    <loc>http://localhost:65373/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E4%B8%8A%E4%BC%A0%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2025-11-14T01:01:34+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ying.github.io/p/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%86%99%E4%BD%9C%E6%B5%81%E7%A8%8B/</loc>
+    <loc>http://localhost:65373/p/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%86%99%E4%BD%9C%E6%B5%81%E7%A8%8B/</loc>
     <lastmod>2025-11-13T15:14:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ying.github.io/archives/</loc>
+    <loc>http://localhost:65373/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ying.github.io/page/</loc>
+    <loc>http://localhost:65373/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ying.github.io/categories/</loc>
+    <loc>http://localhost:65373/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/ying.github.io/links/</loc>
+    <loc>http://localhost:65373/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/ying.github.io/tags/</loc>
+    <loc>http://localhost:65373/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/ying.github.io/categories/test/</loc>
+    <loc>http://localhost:65373/categories/test/</loc>
   </url><url>
-    <loc>http://localhost:1313/ying.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:65373/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>
